@@ -1,0 +1,11 @@
+@import 'variables';
+
+body, html {
+  font-family: $font-stack;
+  background-color: $primary;
+  color: $secondary;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}

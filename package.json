@@ -1,0 +1,20 @@
+{
+  "name": "gulp-sass-browsersync",
+  "version": "1.0.0",
+  "description": "A gulp setup with SASS, autoprefix and auto reload with BrowserSync",
+  "main": "gulpfile.js",
+  "keywords": [
+    "gulp",
+    "sass",
+    "autoprefixer",
+    "browser-sync"
+  ],
+  "author": "Jesper Orb <jesperorb@gmail.com> (https://jesperorb.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "2.23.3",
+    "gulp": "3.9.1",
+    "gulp-autoprefixer": "4.1.0",
+    "gulp-sass": "3.1.0"
+  }
+}
